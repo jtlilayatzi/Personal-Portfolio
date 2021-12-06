@@ -1,0 +1,9 @@
+/*FLEX PROPERTIES*/
+.flex {display: flex;}
+.flex-row {flex-direction: row;}
+.flex-wrap {flex-wrap: wrap;}
+
+/*ALIGNMENT PROPERTIES*/
+.justify-center {justify-content: center;}
+.align-conent-center {align-content: center;}
+.align-item-center {align-items: center;}

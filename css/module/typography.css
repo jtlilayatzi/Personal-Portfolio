@@ -1,0 +1,16 @@
+@media screen and (max-width: 768px) {
+    .f-16 {font-size: 1rem;}
+    .f-24 {font-size: 1.5rem;}
+    .f-32 {font-size: 2rem;}
+    .f-40 {font-size: 2.5rem;}
+}
+
+p {
+    font-weight: 300;
+    line-height: 1.5;
+    font-size: 1rem;
+}
+
+.oswald {font-family: 'Oswald', sans-serif;}
+
+.text-upper {text-transform: uppercase;}
